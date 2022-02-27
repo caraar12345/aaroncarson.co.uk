@@ -1,0 +1,24 @@
+baseURL: http://example.org/
+languageCode: en-gb
+title: Aaron Carson!
+theme: papermod
+
+params:
+  profileMode:
+    enabled: true
+    title: Aaron Carson
+    subtitle: God knows what.
+    imageUrl: https://aaroncarson.co.uk/assets/images/aaroncarson.webp?1641751937869805074
+    imageTitle: Aaron Carson stood in front of Tower Bridge in London.
+    buttons:
+      - name: Posts
+        url: /posts
+      - name: GitHub
+        url: https://github.com/caraar12345
+    socialIcons:
+      - name: Twitter
+        url: https://twitter.com/acar321
+      - name: Instagram
+        url: https://instagram.com/caraar12345
+      - name: LinkedIn
+        url: https://www.linkedin.com/in/aaron-carson
