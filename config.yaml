@@ -22,4 +22,6 @@ params:
       url: https://twitter.com/acar321
     - name: linkedin
       url: https://www.linkedin.com/in/aaron-carson
+    - name: mastodon
+      url: https://adhd.energy/@aaroncarson
   comments: true
