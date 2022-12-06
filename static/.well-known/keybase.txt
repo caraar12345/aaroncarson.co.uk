@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/aaroncarson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aaroncarson.co.uk
+  * I am aaroncarson (https://keybase.io/aaroncarson) on keybase.
+  * I have a public key ASCYKKnDyEz65YJXXksAuZklAujW3_MbqB5wxH5NyLD_hAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207f54cb8148bedb5e08c994e6645b3c45ff7f94bb81ee4419190a8ba1e81c4dc10a",
+      "host": "keybase.io",
+      "kid": "01209828a9c3c84cfae582575e4b00b9992502e8d6dff31ba81e70c47e4dc8b0ff840a",
+      "uid": "46410e83b381bfce039c15f25d04cf19",
+      "username": "aaroncarson"
+    },
+    "merkle_root": {
+      "ctime": 1670330428,
+      "hash": "a5f84a76456217f20ad156db743ea7d4830bcdd68a9cf61a683f1486e717d908fe429a0de03e00a8aecd77df607ea09e05688f094b6036801c2338ba1531b031",
+      "hash_meta": "a8638876e52cfa1a1abc5e7d4f05a4513d9becea96ba7cab144b7f6c603becab",
+      "seqno": 23672825
+    },
+    "service": {
+      "entropy": "AZnWqQkArFVIokNL/kafyE/K",
+      "hostname": "aaroncarson.co.uk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1670330434,
+  "expire_in": 504576000,
+  "prev": "62070abd0fef06eda329f9cf5c1b0373661ee7811c663219a2927604bb332fb9",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmCipw8hM+uWCV15LALmZJQLo1t/zG6gecMR+Tciw/4QKp3BheWxvYWTESpcCHMQgYgcKvQ/vBu2jKfnPXBsDc2Ye54EcZjIZopJ2BLszL7nEIF3V97GTNO+J27lBRVePsfBpR6rlTd9Wj1z+Tg2HsgUoAgHCo3NpZ8RAMjiWUpR+Dc9tlGzKZlXZhTGn2YibRmyZifN8hA8C/R6q/PqFl/0o4zxmZNTV5t/37AqciO0aKVLaDWTWlodIBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKTUit8LfEMhByl06K0TqfAFGS7vpyj6BeABoWcA/bFzo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aaroncarson
+
+==================================================================
