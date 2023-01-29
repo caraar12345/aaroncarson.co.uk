@@ -24,4 +24,6 @@ params:
       url: https://www.linkedin.com/in/aaron-carson
     - name: mastodon
       url: https://adhd.energy/@aaroncarson
+    - name: github
+      url: https://github.com/caraar12345
   comments: true
