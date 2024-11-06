@@ -7,7 +7,7 @@ params:
   profileMode:
     enabled: true
     title: Aaron Carson
-    subtitle: Cyber security... amongst other things.
+    subtitle: Cyber security and general nerdery
     imageUrl: /images/aaroncarson.png
     imageTitle: Aaron Carson stood in front of Tower Bridge in London.
     buttons:
@@ -18,12 +18,10 @@ params:
       - name: Posts
         url: /posts
   socialIcons:
-    - name: twitter
-      url: https://twitter.com/acar321
+    - name: bluesky
+      url: https://bsky.app/profile/aaroncarson.co.uk
     - name: linkedin
       url: https://www.linkedin.com/in/aaron-carson
-    - name: mastodon
-      url: https://adhd.energy/@aaroncarson
     - name: github
       url: https://github.com/caraar12345
   comments: true
